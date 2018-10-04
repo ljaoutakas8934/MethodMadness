@@ -1,6 +1,6 @@
 public class LjaoutakasLib
 {
-    public static Boolean isFibonnaci(int n)
+    public static Boolean isFibonacci(int n)
     {
         Boolean output = false;
         int num1 = 0;
@@ -39,7 +39,7 @@ public class LjaoutakasLib
 
         for (int i = 0; i < msg.length(); i++)
         {
-
+        // convert the key to int,
         }
         return enc;
     }
