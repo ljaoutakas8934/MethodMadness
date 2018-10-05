@@ -1,5 +1,11 @@
+//Loris Jaoutakas
 public class LjaoutakasLib
 {
+    /**
+     * This method checks if an integer, n, is a number listed on the fibonacci sequence. The fibonacci sequence is a sequence where at a given index, the value is defined as the sum
+     * @param n
+     * @return
+     */
     public static Boolean isFibonacci(int n)
     {
         Boolean output = false;
